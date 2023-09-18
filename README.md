@@ -26,5 +26,5 @@
   <a href="http://lattes.cnpq.br/1207202817257723" target="_blank"><img src="https://img.shields.io/badge/-LATTES-blue?style=for-the-badge" target="_blank"></a> 
 </div>
 <div>
-  <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/octocat-1694999902100.png" width="400px" />
+  <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1694999902100.png" width="400px" />
 </div>
