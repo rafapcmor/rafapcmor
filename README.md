@@ -26,5 +26,5 @@
   <a href="http://lattes.cnpq.br/1207202817257723" target="_blank"><img src="https://img.shields.io/badge/-LATTES-blue?style=for-the-badge" target="_blank"></a> 
 </div>
 <div>
-  <img align="right" alt="GIF" src="https://drive.google.com/file/d/13obCiEauRenSFdnnzteWqcWXgcvsT4Ss/view?usp=drive_link" width="400px" />
+  <img align="right" alt="IMG" src="https://drive.google.com/file/d/13obCiEauRenSFdnnzteWqcWXgcvsT4Ss/view?usp=drive_link" width="400px" />
 </div>
